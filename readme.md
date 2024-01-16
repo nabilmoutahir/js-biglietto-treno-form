@@ -32,8 +32,12 @@ Se non vi sentite particolarmente creativi, questa potrebbe essere un'implementa
 
 - calcolo sconto 20% se minorenne
 
-- applico sconto
+    - applico sconto
+
+    - stampo prezzo
 
 - calcolo sconto 40% se over 65 
 
-- applico sconto
+    - applico sconto
+
+    - stampo prezzo
